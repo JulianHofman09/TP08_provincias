@@ -1,0 +1,48 @@
+2026-05-18T14:58:29.819Z : la autentificaci�n password fall� para el usuario �postgres�
+
+Stack Trace:
+error: la autentificaci�n password fall� para el usuario �postgres�
+    at parseErrorMessage (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:305:11)
+    at Parser.handlePacket (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:143:27)
+    at Parser.parse (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:37:38)
+    at Socket.<anonymous> (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\index.js:11:42)
+    at Socket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+
+----------------------------------------
+
+2026-05-18T14:58:44.649Z : la autentificaci�n password fall� para el usuario �postgres�
+
+Stack Trace:
+error: la autentificaci�n password fall� para el usuario �postgres�
+    at parseErrorMessage (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:305:11)
+    at Parser.handlePacket (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:143:27)
+    at Parser.parse (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:37:38)
+    at Socket.<anonymous> (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\index.js:11:42)
+    at Socket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+
+----------------------------------------
+
+2026-05-18T15:00:00.673Z : la autentificaci�n password fall� para el usuario �postgres�
+
+Stack Trace:
+error: la autentificaci�n password fall� para el usuario �postgres�
+    at parseErrorMessage (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:305:11)
+    at Parser.handlePacket (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:143:27)
+    at Parser.parse (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\parser.js:37:38)
+    at Socket.<anonymous> (C:\Users\devandroid\Downloads\7\TP08_provincias\TP08\node_modules\pg-protocol\dist\index.js:11:42)
+    at Socket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+
+----------------------------------------
+
