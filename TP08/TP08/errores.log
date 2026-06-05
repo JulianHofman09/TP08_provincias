@@ -46,3 +46,63 @@ error: la autentificaci�n password fall� para el usuario �postgres�
 
 ----------------------------------------
 
+2026-06-05T11:03:28.981Z : la sintaxis de entrada no es válida para tipo integer: «chaco»
+
+Stack Trace:
+error: la sintaxis de entrada no es válida para tipo integer: «chaco»
+    at C:\Users\devandroid\Downloads\1\TP08_provincias\TP08\TP08\node_modules\pg\lib\client.js:646:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/repositories/province-repository.js:57:28)
+    at async ProvinceService.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/services/province-service.js:16:16)
+    at async file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/controllers/province-controller.js:20:22
+
+----------------------------------------
+
+2026-06-05T11:03:37.954Z : la sintaxis de entrada no es válida para tipo integer: «Formosa»
+
+Stack Trace:
+error: la sintaxis de entrada no es válida para tipo integer: «Formosa»
+    at C:\Users\devandroid\Downloads\1\TP08_provincias\TP08\TP08\node_modules\pg\lib\client.js:646:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/repositories/province-repository.js:57:28)
+    at async ProvinceService.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/services/province-service.js:16:16)
+    at async file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/controllers/province-controller.js:20:22
+
+----------------------------------------
+
+2026-06-05T11:03:42.638Z : la sintaxis de entrada no es válida para tipo integer: «cordoba»
+
+Stack Trace:
+error: la sintaxis de entrada no es válida para tipo integer: «cordoba»
+    at C:\Users\devandroid\Downloads\1\TP08_provincias\TP08\TP08\node_modules\pg\lib\client.js:646:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/repositories/province-repository.js:57:28)
+    at async ProvinceService.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/services/province-service.js:16:16)
+    at async file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/controllers/province-controller.js:20:22
+
+----------------------------------------
+
+2026-06-05T11:03:47.455Z : la sintaxis de entrada no es válida para tipo integer: «buenos aires»
+
+Stack Trace:
+error: la sintaxis de entrada no es válida para tipo integer: «buenos aires»
+    at C:\Users\devandroid\Downloads\1\TP08_provincias\TP08\TP08\node_modules\pg\lib\client.js:646:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/repositories/province-repository.js:57:28)
+    at async ProvinceService.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/services/province-service.js:16:16)
+    at async file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/controllers/province-controller.js:20:22
+
+----------------------------------------
+
+2026-06-05T11:03:57.606Z : la sintaxis de entrada no es válida para tipo integer: «Buenos Aires»
+
+Stack Trace:
+error: la sintaxis de entrada no es válida para tipo integer: «Buenos Aires»
+    at C:\Users\devandroid\Downloads\1\TP08_provincias\TP08\TP08\node_modules\pg\lib\client.js:646:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async ProvinceRepository.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/repositories/province-repository.js:57:28)
+    at async ProvinceService.getByIdAsync (file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/services/province-service.js:16:16)
+    at async file:///C:/Users/devandroid/Downloads/1/TP08_provincias/TP08/TP08/src/controllers/province-controller.js:20:22
+
+----------------------------------------
+
